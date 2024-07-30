@@ -53,8 +53,9 @@ const LandingPage = () => {
                     </div>
                     <div className="grid grid-cols-2">
                         <div className="flex justify-center items-center">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4697.070384448186!2d113.82795476503469!3d-8.126951601959968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6bf8fb6e97339%3A0x6ce61ee74b7fe29a!2sBendung%20Kembar!5e0!3m2!1sen!2sus!4v1722354640055!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4697.070384448186!2d113.82795476503469!3d-8.126951601959968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6bf8fb6e97339%3A0x6ce61ee74b7fe29a!2sBendung%20Kembar!5e0!3m2!1sen!2sus!4v1722354640055!5m2!1sen!2sus" className="w-[35rem] h-[27rem]" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>                        </div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4697.070384448186!2d113.82795476503469!3d-8.126951601959968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6bf8fb6e97339%3A0x6ce61ee74b7fe29a!2sBendung%20Kembar!5e0!3m2!1sen!2sus!4v1722354640055!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4697.070384448186!2d113.82795476503469!3d-8.126951601959968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6bf8fb6e97339%3A0x6ce61ee74b7fe29a!2sBendung%20Kembar!5e0!3m2!1sen!2sus!4v1722354640055!5m2!1sen!2sus" className="w-[35rem] h-[27rem]" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
                         <div className="flex justify-between flex-col gap-1 items-center">
                             <div className="font-bold bg-[#285B0A] w-fit py-3 px-5 rounded-2xl text-white text-2xl">
                                 <p>Scan Untuk Menjelajah</p>
