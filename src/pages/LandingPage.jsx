@@ -53,7 +53,7 @@ const LandingPage = () => {
                     </div>
                     <div className="grid grid-cols-2">
                         <div className="flex justify-center items-center">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.786605865273!2d113.83518407505568!3d-8.123196491906326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6bff1e82a8ac3%3A0x2c242e9b954f82f!2sDam%20kembar!5e0!3m2!1sid!2sid!4v1722145332836!5m2!1sid!2sid" className="w-[35rem] h-[27rem]" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://google.com/maps/embed?pb!3m1!4b1!4m6!3m5!1s0x2dd6bf8fb6e97339:0x6ce61ee74b7fe29a!8m2!3d-8.1252517!4d113.836301!16s%2Fg%2F11hd__1536?entry=ttu" className="w-[35rem] h-[27rem]" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                         <div className="flex justify-between flex-col gap-1 items-center">
                             <div className="font-bold bg-[#285B0A] w-fit py-3 px-5 rounded-2xl text-white text-2xl">
