@@ -141,7 +141,7 @@ const LandingPage = () => {
                     <div className="gap-5 flex flex-col items-start">
                         <div className="flex flex-col items-start justify-center ">
                             <div className="flex gap-5 items-center">
-                                <img src={Logo} className="w-20" alt="" />
+                                <img src={logo} className="w-20" alt="" />
                                 <p className="text-2xl font-bold">WIDAMAR Desa Ajung</p>
                             </div>
                         </div>
